@@ -1,0 +1,27 @@
+[2025-11-02 11:11:14][INFO] User test@example.com logged in successfully
+[2025-11-02 11:11:14][WARNING] Failed login attempt for wrong@example.com
+[2025-11-02 11:11:14][INFO] User rere@example.com logged in successfully
+[2025-11-02 11:11:14][WARNING] Failed login attempt for test@example.com
+[2025-11-02 11:11:17][INFO] User test@example.com logged in successfully
+[2025-11-02 11:11:17][WARNING] Failed login attempt for wrong@example.com
+[2025-11-02 11:11:17][INFO] User rere@example.com logged in successfully
+[2025-11-02 11:11:17][WARNING] Failed login attempt for test@example.com
+[2025-11-02 11:15:24][INFO] User test@example.com logged in successfully
+[2025-11-02 11:15:24][WARNING] Failed login attempt for wrong@example.com
+[2025-11-02 11:15:24][INFO] User rere@example.com logged in successfully
+[2025-11-02 11:15:24][WARNING] Failed login attempt for test@example.com
+[2025-11-02 11:15:28][INFO] User test@example.com logged in successfully
+[2025-11-02 11:15:28][WARNING] Failed login attempt for wrong@example.com
+[2025-11-02 11:15:28][INFO] User rere@example.com logged in successfully
+[2025-11-02 11:15:28][WARNING] Failed login attempt for test@example.com
+[2025-11-02 11:15:42][INFO] User test@example.com logged in successfully
+[2025-11-02 11:15:42][WARNING] Failed login attempt for wrong@example.com
+[2025-11-02 11:15:42][INFO] User rere@example.com logged in successfully
+[2025-11-02 11:15:42][WARNING] Failed login attempt for test@example.com
+[2025-11-02 11:18:44][INFO] User test@example.com logged in successfully
+[2025-11-02 11:18:44][WARNING] Failed login attempt for wrong@example.com
+[2025-11-02 11:18:44][INFO] User rere@example.com logged in successfully
+[2025-11-02 11:18:44][WARNING] Failed login attempt for test@example.com
+[2025-11-03 01:43:05] [WARN] Failed login attempt {"user":"testuser","reason":"user not found"}
+[2025-11-03 01:43:05] [WARN] Failed login attempt {"user":"testuser","reason":"user not found"}
+[2025-11-03 01:43:05] [INFO] User logged out {"user":"unknown"}
